@@ -23,9 +23,8 @@ _實際對話_：
 議員：天啊，市長，我們都知道要發財，但自經區具體上你要做什麼？
 韓國瑜：議員，總目標就是高雄要發財，我們所做的一切都是高雄要發財。這個自經區是其中之一，謝謝
 ```  
-
+<h3>歡迎大家自由發揮！<a href="https://rainboltz.github.io/korean-fish-chatbot/" target="_blank">(點我體驗)</a><h3><br>
 <p align="center">
-    <h3>歡迎大家自由發揮！<a href="https://rainboltz.github.io/korean-fish-chatbot/" target="_blank">(點我體驗)</a><h3><br>
     <img src="https://github.com/RainBoltz/korean-fish-chatbot/blob/master/demo.png" width="80%" height="auto" />
 </p>
 
