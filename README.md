@@ -9,7 +9,7 @@
 
 <p align="center">
     <img src="https://github.com/RainBoltz/korean-fish-chatbot/blob/master/%E9%BB%83%E6%8D%B7%E7%BF%BB%E7%99%BD%E7%9C%BC.jpg" width="250" height="auto" />
-    <div><i>在質詢後期，<a href="https://www.facebook.com/FongshanHuangjie/" target="_blank">黃捷</a>已經白眼翻到不要不要的</i></div>
+    <div style="text-align: center;"><i>在質詢後期，<a href="https://www.facebook.com/FongshanHuangjie/" target="_blank">黃捷</a>已經白眼翻到不要不要的</i></div>
 </p>
 
 ## 來韓薯叔這邊，嚐嚐無招勝有招的威力！
@@ -24,7 +24,7 @@ _實際對話_：
 韓國瑜：議員，總目標就是高雄要發財，我們所做的一切都是高雄要發財。這個自經區是其中之一，謝謝
 ```  
 
-<h3><b>歡迎大家自由發揮！<b><h3>
+<h3><b>歡迎大家自由發揮！<a href="https://rainboltz.github.io/korean-fish-chatbot/" target="_blank">(點我體驗)</a><b><h3>
 <p align="center">
     <img src="https://github.com/RainBoltz/korean-fish-chatbot/blob/master/demo.png" width="80%" height="auto" />
 </p>
