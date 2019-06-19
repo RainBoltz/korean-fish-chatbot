@@ -50,7 +50,7 @@ function user_send_msg(msg){
     current_time = current_datetime.toString().split(" ")[4]
     let html_code = `
         <div class="container darker">
-            <img src="img/user.png" alt="User Avatar" class="right" style="width:100%;">
+            <img src="img/user.jpg" alt="User Avatar" class="right" style="width:100%;">
             <p>` + msg + `</p>
             <span class="time-left">` + current_time + `</span>
         </div>
